@@ -4,6 +4,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manshydv" alt="manshydv" /></a> </p>
 
+###
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/snake.svg" alt="Snake animation" />
+</picture>
+
+###
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
@@ -74,16 +84,7 @@
 ###
 
 
-###
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/ManshYDV/ManshYDV/output/snake.svg" alt="Snake animation" />
-</picture>
-
-###
 
 <p align="left">👋 Hi, I'm **Manish Yadav** – a passionate Java Developer with a strong foundation in **Data Structures, Algorithms, and Object-Oriented Programming**.  <br><br>🚀 Skilled in **Spring, Hibernate, JDBC, and MySQL**, I love building efficient, maintainable applications. I have solved **700+ DSA problems** across various platforms and enjoy tackling complex challenges.  <br><br>🎯 **Tech Stack:**  <br>- **Languages:** Java, C, Python, JavaScript  <br>- **Frameworks:** Spring, Spring ORM, Spring MVC, Hibernate  <br>- **Web Tech:** JSP, Servlet, HTML, CSS, Bootstrap  <br>- **Databases & Tools:** MySQL, Git, Maven, Tomcat  <br><br>💡 Always learning and staying updated with the latest industry trends. Let's connect and collaborate!</p>
 
